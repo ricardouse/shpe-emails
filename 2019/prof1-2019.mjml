@@ -77,7 +77,7 @@
           SHPE First General Meeting: Presenting Occidental Petroleum
         </mj-text>
         <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
-          Thursday, January 31st, 7 PM - 9PM
+          Thursday, January 31st, 7PM - 9PM
         </mj-text>
         <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
           College of Social Work 102
@@ -105,12 +105,22 @@
           If you'd be interested in coming to carry out interviews and provide interview advice to students, please
           click below and sign up. Let your coworkers know as we're always welcoming of more professionals!
         </mj-text>
-        <mj-text line-height="20px" font-weight="700" font-size="14px" align="center">
-          This event will be held on February 1st, from 12PM to 4PM, at the Astrodome Room, located inside of the
-          Student Center South.
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px">
+      <mj-column>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          Resume Critique Workshop 
+        </mj-text>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          Friday, February 1st, 12PM - 4PM
+        </mj-text>
+        <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+          Astrodome Room, Student Center South
         </mj-text>
         <mj-button href="https://goo.gl/forms/e7qkpf2XNG8jZDrK2" padding="0px">
-          Sign up for SHPE Resume Workshop
+          Sign up for Resume Workshop
         </mj-button>
       </mj-column>
     </mj-section>
@@ -121,11 +131,76 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0" background-color="#FFFFFF">
-      <mj-column width="150px">
-        <mj-image height="150px" align="center" border-radius="50%" src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/b9b0122a-9970-49ed-8acf-7bf6f30897d2.png"
-          alt="Ricardo Useche" container-background-color="#FFFFFF" />
+    <mj-section background-color="#FFFFFF" padding="0px">
+      <mj-column>
+        <mj-text mj-class="blue sectionHeader" font-size="30px">
+          SHPE Annual Date Auction
+        </mj-text>
+        <mj-text line-height="20px">
+          As is tradition, we'll be hosting our third annual Date Auction on Wednesday, Feb. 13th. In the past we have raised thousands of dollars to provide scholarships, and we hope to do the same this year.
+        </mj-text>
+        <mj-text line-height="20px">
+          Tickets are $3 if purchased in advanced and $5 if purchased at the door on the day of the event. You can purchase tickets through our PayPal or Venmo, using shpe.uh@gmail.com. You may also reach out to any member of our team to purchase tickets.
+        </mj-text>
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px">
+      <mj-column>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          Third Annual Date Auction
+        </mj-text>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          Thursday, January 31st, 7PM - 9PM
+        </mj-text>
+        <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+          College of Social Work 102
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#FFFFFF">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="red" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0px">
+      <mj-column>
+      <mj-text mj-class="blue sectionHeader" font-size="30px">
+          Society of Hispanic Professional Engineers
+        </mj-text>
+        <mj-text mj-class="sectionHeader" color="#C8102E" font-size="30px">
+          17th Annual Banquet
+        </mj-text>
+        <mj-text line-height="20px">
+          Mark your calendars and join us for our <strong>17th Annual Banquet</strong> as we celebrate a year of transformation and success. We will provide more information as the date approaches, including ticket info.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="0px">
+      <mj-column>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          17th Annual Banquet
+        </mj-text>
+        <mj-text align="center" padding="0 25px" line-height="20px" font-weight="700">
+          Saturday, April 27th, 7PM
+        </mj-text>
+        <mj-text align="center" padding="0px 25px 10px 25px" line-height="20px" font-weight="700">
+          Venue TBD
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px" background-color="#FFFFFF">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="red" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#FFFFFF">
       <mj-column width="400px" background-color="#FFFFFF">
         <mj-image src="https://gallery.mailchimp.com/79b1503c062d14766bbb757ae/images/7ff79503-499a-4867-9004-e6ea6472abf2.png"
           alt="" />
